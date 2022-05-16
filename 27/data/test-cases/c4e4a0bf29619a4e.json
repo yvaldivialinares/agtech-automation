@@ -1,0 +1,291 @@
+{
+  "uid" : "c4e4a0bf29619a4e",
+  "name" : "Login Successful",
+  "fullName" : "Login y Logout: Login Successful",
+  "historyId" : "8cf3206b7f71cf07250c86b14155c0e9",
+  "time" : {
+    "start" : 1652732585383,
+    "stop" : 1652732592649,
+    "duration" : 7266
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "Hooks.initDriver(Scenario)",
+    "time" : {
+      "start" : 1652732585383,
+      "stop" : 1652732587413,
+      "duration" : 2030
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  Navigate to Demoblaze web",
+      "time" : {
+        "start" : 1652732587413,
+        "stop" : 1652732588159,
+        "duration" : 746
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Given  Click on the button Sign up",
+      "time" : {
+        "start" : 1652732588159,
+        "stop" : 1652732588539,
+        "duration" : 380
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And  Write Username",
+      "time" : {
+        "start" : 1652732588540,
+        "stop" : 1652732588889,
+        "duration" : 349
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And  Write Password",
+      "time" : {
+        "start" : 1652732588889,
+        "stop" : 1652732588982,
+        "duration" : 93
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And  Click on the button Sign Up",
+      "time" : {
+        "start" : 1652732588982,
+        "stop" : 1652732589310,
+        "duration" : 328
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And  The Sign up successful alert is displayed",
+      "time" : {
+        "start" : 1652732589310,
+        "stop" : 1652732589850,
+        "duration" : 540
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When  Click on the button Log in",
+      "time" : {
+        "start" : 1652732589851,
+        "stop" : 1652732590090,
+        "duration" : 239
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And  The user complete the fields with the correct data for the login",
+      "time" : {
+        "start" : 1652732590091,
+        "stop" : 1652732590356,
+        "duration" : 265
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And  Click on the button Log In",
+      "time" : {
+        "start" : 1652732590356,
+        "stop" : 1652732590845,
+        "duration" : 489
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then  Verify the username is displayed",
+      "time" : {
+        "start" : 1652732590845,
+        "stop" : 1652732591566,
+        "duration" : 721
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And  Click on the button Log out",
+      "time" : {
+        "start" : 1652732591567,
+        "stop" : 1652732591708,
+        "duration" : 141
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And  Verify the username is not displayed",
+      "time" : {
+        "start" : 1652732591708,
+        "stop" : 1652732591860,
+        "duration" : 152
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 12,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "Hooks.embedScreenshot(Scenario)",
+    "time" : {
+      "start" : 1652732591860,
+      "stop" : 1652732592649,
+      "duration" : 789
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "regression"
+  }, {
+    "name" : "tag",
+    "value" : "loginLogOut"
+  }, {
+    "name" : "tag",
+    "value" : "loginLogOutSuccessful"
+  }, {
+    "name" : "host",
+    "value" : "fv-az453-904"
+  }, {
+    "name" : "thread",
+    "value" : "2967@fv-az453-904.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Login y Logout"
+  }, {
+    "name" : "story",
+    "value" : "Login Successful"
+  }, {
+    "name" : "suite",
+    "value" : "Login y Logout"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Successful"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "classpath:features/web/Login.feature"
+  }, {
+    "name" : "package",
+    "value" : "features.web.Login_feature.Login y Logout"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "loginLogOut", "loginLogOutSuccessful", "regression" ]
+  },
+  "source" : "c4e4a0bf29619a4e.json",
+  "parameterValues" : [ ]
+}

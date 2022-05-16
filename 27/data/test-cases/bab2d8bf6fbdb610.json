@@ -1,0 +1,351 @@
+{
+  "uid" : "bab2d8bf6fbdb610",
+  "name" : "To add a laptop to the shopping cart",
+  "fullName" : "By Articles: To add a laptop to the shopping cart",
+  "historyId" : "590133888251fcf4132b5cd1ce480df0",
+  "time" : {
+    "start" : 1652732575355,
+    "stop" : 1652732585376,
+    "duration" : 10021
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "Hooks.initDriver(Scenario)",
+    "time" : {
+      "start" : 1652732575355,
+      "stop" : 1652732577460,
+      "duration" : 2105
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  Navigate to Demoblaze web",
+      "time" : {
+        "start" : 1652732577460,
+        "stop" : 1652732578535,
+        "duration" : 1075
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And  Click on the button Sign up",
+      "time" : {
+        "start" : 1652732578535,
+        "stop" : 1652732578987,
+        "duration" : 452
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And  Write Username",
+      "time" : {
+        "start" : 1652732578987,
+        "stop" : 1652732579421,
+        "duration" : 434
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And  Write Password",
+      "time" : {
+        "start" : 1652732579421,
+        "stop" : 1652732579620,
+        "duration" : 199
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And  Click on the button Sign Up",
+      "time" : {
+        "start" : 1652732579621,
+        "stop" : 1652732579888,
+        "duration" : 267
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And  The Sign up successful alert is displayed",
+      "time" : {
+        "start" : 1652732579889,
+        "stop" : 1652732580456,
+        "duration" : 567
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And  Click on the button Log in",
+      "time" : {
+        "start" : 1652732580457,
+        "stop" : 1652732580716,
+        "duration" : 259
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And  The user complete the fields with the correct data for the login",
+      "time" : {
+        "start" : 1652732580716,
+        "stop" : 1652732580988,
+        "duration" : 272
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And  Click on the button Log In",
+      "time" : {
+        "start" : 1652732580989,
+        "stop" : 1652732581454,
+        "duration" : 465
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And  Verify the username is displayed",
+      "time" : {
+        "start" : 1652732581454,
+        "stop" : 1652732582206,
+        "duration" : 752
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When  Click on the button Laptops",
+      "time" : {
+        "start" : 1652732582206,
+        "stop" : 1652732582271,
+        "duration" : 65
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And  Select the laptop Sony vaio i5",
+      "time" : {
+        "start" : 1652732582271,
+        "stop" : 1652732582773,
+        "duration" : 502
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And  Click on the button Add to cart",
+      "time" : {
+        "start" : 1652732582773,
+        "stop" : 1652732583420,
+        "duration" : 647
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then  The Product added alert is displayed",
+      "time" : {
+        "start" : 1652732583420,
+        "stop" : 1652732584002,
+        "duration" : 582
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And  Click on the button Cart",
+      "time" : {
+        "start" : 1652732584002,
+        "stop" : 1652732584444,
+        "duration" : 442
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And  Verify the laptop Sony vaio i5 is displayed",
+      "time" : {
+        "start" : 1652732584444,
+        "stop" : 1652732584488,
+        "duration" : 44
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 16,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "Hooks.embedScreenshot(Scenario)",
+    "time" : {
+      "start" : 1652732584489,
+      "stop" : 1652732585375,
+      "duration" : 886
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "regression"
+  }, {
+    "name" : "tag",
+    "value" : "addLaptopToCart"
+  }, {
+    "name" : "tag",
+    "value" : "addLaptopToCartSuccessful"
+  }, {
+    "name" : "host",
+    "value" : "fv-az453-904"
+  }, {
+    "name" : "thread",
+    "value" : "2967@fv-az453-904.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "By Articles"
+  }, {
+    "name" : "story",
+    "value" : "To add a laptop to the shopping cart"
+  }, {
+    "name" : "suite",
+    "value" : "By Articles"
+  }, {
+    "name" : "testClass",
+    "value" : "To add a laptop to the shopping cart"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "classpath:features/web/BuyArticles.feature"
+  }, {
+    "name" : "package",
+    "value" : "features.web.BuyArticles_feature.By Articles"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "regression", "addLaptopToCart", "addLaptopToCartSuccessful" ]
+  },
+  "source" : "bab2d8bf6fbdb610.json",
+  "parameterValues" : [ ]
+}
