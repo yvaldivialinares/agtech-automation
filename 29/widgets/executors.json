@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://yvaldivialinares.github.io/agtech-automation",
+  "buildOrder" : 29,
+  "buildName" : "GitHub Actions Run #2334523447",
+  "buildUrl" : "https://github.com/yvaldivialinares/agtech-automation/actions/runs/2334523447",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://yvaldivialinares.github.io/agtech-automation/29/"
+} ]

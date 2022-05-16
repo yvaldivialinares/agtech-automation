@@ -1,0 +1,61 @@
+[ {
+  "uid" : "6c6c3fafd271d78a",
+  "name" : "Register a user Successful",
+  "time" : {
+    "start" : 1652733447949,
+    "stop" : 1652733451910,
+    "duration" : 3961
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c9657c105b25a00c",
+  "name" : "Login Successful",
+  "time" : {
+    "start" : 1652733444060,
+    "stop" : 1652733447945,
+    "duration" : 3885
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "967e0b424b2b482a",
+  "name" : "Add Pet",
+  "time" : {
+    "start" : 1652733428551,
+    "stop" : 1652733434279,
+    "duration" : 5728
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8595634d88eab11a",
+  "name" : "Update an existing pet",
+  "time" : {
+    "start" : 1652733437171,
+    "stop" : 1652733439608,
+    "duration" : 2437
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8614e3308ac3477c",
+  "name" : "Find Pet by id",
+  "time" : {
+    "start" : 1652733434377,
+    "stop" : 1652733437157,
+    "duration" : 2780
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "664cd023d151491a",
+  "name" : "To add a laptop to the shopping cart",
+  "time" : {
+    "start" : 1652733439615,
+    "stop" : 1652733444050,
+    "duration" : 4435
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

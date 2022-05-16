@@ -1,0 +1,43 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Element <a id=\"login2\" class=\"nav-link\" href=\"#\"> is not clickable at point (1050,37) because another element <div id=\"signInModal\" class=\"modal fade\"> obscures it\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'fv-az187-396', ip: '10.1.0.121', os.name: 'Linux', os.arch: 'amd64', os.version: '5.13.0-1022-azure', java.version: '11.0.15'\nDriver info: org.openqa.selenium.firefox.FirefoxDriver\nCapabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 100.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220513165813, moz:geckodriverVersion: 0.31.0, moz:headless: true, moz:processID: 3020, moz:profile: /tmp/rust_mozprofileTtuLVh, moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, platformVersion: 5.13.0-1022-azure, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}\nSession ID: 4598bd35-0d7f-45b0-9086-b2fe90d3538a",
+      "children" : [ {
+        "name" : "To add a laptop to the shopping cart",
+        "uid" : "664cd023d151491a",
+        "parentUid" : "cf20e498a9b278e194d4709104b617fb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1652733439615,
+          "stop" : 1652733444050,
+          "duration" : 4435
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cf20e498a9b278e194d4709104b617fb"
+    }, {
+      "name" : "Element <a id=\"login2\" class=\"nav-link\" href=\"#\"> is not clickable at point (1050,37) because another element <div id=\"signInModal\" class=\"modal fade\"> obscures it\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'fv-az187-396', ip: '10.1.0.121', os.name: 'Linux', os.arch: 'amd64', os.version: '5.13.0-1022-azure', java.version: '11.0.15'\nDriver info: org.openqa.selenium.firefox.FirefoxDriver\nCapabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 100.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220513165813, moz:geckodriverVersion: 0.31.0, moz:headless: true, moz:processID: 3269, moz:profile: /tmp/rust_mozprofile85AqFC, moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, platformVersion: 5.13.0-1022-azure, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}\nSession ID: 04abf12c-0598-46db-9edb-8ee460513ae4",
+      "children" : [ {
+        "name" : "Login Successful",
+        "uid" : "c9657c105b25a00c",
+        "parentUid" : "863fcf696ebe2a854d0b91b1d379129d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1652733444060,
+          "stop" : 1652733447945,
+          "duration" : 3885
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "863fcf696ebe2a854d0b91b1d379129d"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
+  "name" : "categories"
+}
