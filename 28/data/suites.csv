@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon May 16 20:33:13 GMT 2022","Mon May 16 20:33:23 GMT 2022","10012","","Manage pet API services","","Add Pet","","Add Pet",""
+"passed","Mon May 16 20:33:23 GMT 2022","Mon May 16 20:33:26 GMT 2022","3257","","Manage pet API services","","Find Pet by id","","Find Pet by id",""
+"passed","Mon May 16 20:33:26 GMT 2022","Mon May 16 20:33:29 GMT 2022","3067","","Manage pet API services","","Update an existing pet","","Update an existing pet",""
+"passed","Mon May 16 20:33:45 GMT 2022","Mon May 16 20:33:50 GMT 2022","5386","","Register a user","","Register a user Successful","","Register a user Successful",""
+"broken","Mon May 16 20:33:37 GMT 2022","Mon May 16 20:33:45 GMT 2022","7094","","Login y Logout","","Login Successful","","Login Successful",""
+"broken","Mon May 16 20:33:29 GMT 2022","Mon May 16 20:33:37 GMT 2022","8168","","By Articles","","To add a laptop to the shopping cart","","To add a laptop to the shopping cart",""

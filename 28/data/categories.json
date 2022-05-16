@@ -1,0 +1,43 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "The element reference of <h4 class=\"card-title\"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'fv-az240-833', ip: '10.1.0.160', os.name: 'Linux', os.arch: 'amd64', os.version: '5.13.0-1022-azure', java.version: '11.0.15'\nDriver info: org.openqa.selenium.firefox.FirefoxDriver\nCapabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 100.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220513165813, moz:geckodriverVersion: 0.31.0, moz:headless: true, moz:processID: 3157, moz:profile: /tmp/rust_mozprofileB5Sdih, moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, platformVersion: 5.13.0-1022-azure, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}\nSession ID: 86287c80-67a8-43ed-88f2-bd106e0bc092",
+      "children" : [ {
+        "name" : "To add a laptop to the shopping cart",
+        "uid" : "cd8c9ef9b76c50e7",
+        "parentUid" : "0fb5a54b5e3950869e5c5058054ac57a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1652733209815,
+          "stop" : 1652733217983,
+          "duration" : 8168
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0fb5a54b5e3950869e5c5058054ac57a"
+    }, {
+      "name" : "java.lang.NullPointerException",
+      "children" : [ {
+        "name" : "Login Successful",
+        "uid" : "c9e2df0bc6e1bd8d",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1652733217997,
+          "stop" : 1652733225091,
+          "duration" : 7094
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5592898b36d684905e31486a23088bda"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
+  "name" : "categories"
+}
