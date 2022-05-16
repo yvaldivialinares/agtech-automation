@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "The element reference of <h4 class=\"card-title\"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'fv-az262-136', ip: '10.1.0.113', os.name: 'Linux', os.arch: 'amd64', os.version: '5.13.0-1022-azure', java.version: '11.0.15'\nDriver info: org.openqa.selenium.firefox.FirefoxDriver\nCapabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 100.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220513165813, moz:geckodriverVersion: 0.31.0, moz:headless: true, moz:processID: 3067, moz:profile: /tmp/rust_mozprofile17O6nc, moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, platformVersion: 5.13.0-1022-azure, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}\nSession ID: 1f37e0e4-cb17-4dbf-bd90-3509d1e64bca",
+      "children" : [ {
+        "name" : "To add a laptop to the shopping cart",
+        "uid" : "ab6b915cd717ab2d",
+        "parentUid" : "96e8a4ac419eeb3b6684b9a4a5691887",
+        "status" : "broken",
+        "time" : {
+          "start" : 1652734807977,
+          "stop" : 1652734815090,
+          "duration" : 7113
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "96e8a4ac419eeb3b6684b9a4a5691887"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
+  "name" : "categories"
+}

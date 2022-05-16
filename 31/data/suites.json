@@ -1,0 +1,99 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "Manage pet API services",
+    "children" : [ {
+      "name" : "Add Pet",
+      "uid" : "ca5f867be5889c1",
+      "parentUid" : "7c8ab99b061209ee5746c2b8e13d4d73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652734791197,
+        "stop" : 1652734801720,
+        "duration" : 10523
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Find Pet by id",
+      "uid" : "28777c63d8764115",
+      "parentUid" : "7c8ab99b061209ee5746c2b8e13d4d73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652734801802,
+        "stop" : 1652734805022,
+        "duration" : 3220
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Update an existing pet",
+      "uid" : "906219fc9d0eb3f3",
+      "parentUid" : "7c8ab99b061209ee5746c2b8e13d4d73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652734805031,
+        "stop" : 1652734807951,
+        "duration" : 2920
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "7c8ab99b061209ee5746c2b8e13d4d73"
+  }, {
+    "name" : "By Articles",
+    "children" : [ {
+      "name" : "To add a laptop to the shopping cart",
+      "uid" : "ab6b915cd717ab2d",
+      "parentUid" : "a8ec55a7f434323e5e300618d6ad360e",
+      "status" : "broken",
+      "time" : {
+        "start" : 1652734807977,
+        "stop" : 1652734815090,
+        "duration" : 7113
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a8ec55a7f434323e5e300618d6ad360e"
+  }, {
+    "name" : "Login y Logout",
+    "children" : [ {
+      "name" : "Login Successful",
+      "uid" : "1737256e71135b2a",
+      "parentUid" : "9346e2826a6d1bff73a84eefff0c8c42",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652734815109,
+        "stop" : 1652734821563,
+        "duration" : 6454
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "9346e2826a6d1bff73a84eefff0c8c42"
+  }, {
+    "name" : "Register a user",
+    "children" : [ {
+      "name" : "Register a user Successful",
+      "uid" : "a1f62d81b10c4696",
+      "parentUid" : "58e4fafc59ef61bb4b5a139beffefa4e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652734821572,
+        "stop" : 1652734825625,
+        "duration" : 4053
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "58e4fafc59ef61bb4b5a139beffefa4e"
+  } ],
+  "name" : "suites"
+}
