@@ -35,7 +35,7 @@ jobs:
        if: always()
        continue-on-error: true
        with:
-         ref: gh-pages
+         ref: ${{ github.event.push.head.ref }}
          path: gh-pages
      
      - name: Allure Report action from marketplace
