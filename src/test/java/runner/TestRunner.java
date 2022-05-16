@@ -8,4 +8,3 @@ import cucumber.api.testng.AbstractTestNGCucumberTests;
     glue = {"classpath:steps"},
     tags = "@regression")
 public class TestRunner extends AbstractTestNGCucumberTests {}
-
